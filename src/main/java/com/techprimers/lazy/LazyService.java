@@ -11,6 +11,6 @@ public class LazyService {
     }
 
     public String hello() {
-        return "My First Spring boot service in google kubernates";
+        return "My First Spring boot service in google kubernetes Engine";
     }
 }
